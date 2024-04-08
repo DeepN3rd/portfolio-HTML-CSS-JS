@@ -234,7 +234,7 @@
       justify-content: center;
     }
     nav .menu a {
-      font-family: fantasy;
+      font-family: 'workbench';
       color:coral;
       display: block;
       font-size: 2rem;
