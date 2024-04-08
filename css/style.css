@@ -143,6 +143,7 @@
     font-size: 2rem;
     letter-spacing: 2px;
     color: chartreuse;
+    text-shadow: #000 1px 0 10px;
   }
   
   .header li {
@@ -150,6 +151,7 @@
     display: inline-flex;
     align-items: center;
     padding: 0 .5rem;
+    text-shadow: coral 1px 0 10px;
   }
   .header a {
     color:  var(--color-body);
@@ -240,7 +242,7 @@
       font-size: 2rem;
       padding: 2rem;
       transition: all .4s;
-      text-shadow: #333333;
+      text-shadow: #000 1px 0 10px;
     }
     .show-nav nav {
       opacity: 1;
@@ -287,6 +289,7 @@
     font-size: 4rem;
     margin: 1.6rem 0 0 0;
     font-weight: 700;
+    text-shadow: #000 1px 0 10px;
   }
   
   .hero__item {
