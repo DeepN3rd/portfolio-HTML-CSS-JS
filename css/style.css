@@ -240,6 +240,7 @@
       font-size: 2rem;
       padding: 2rem;
       transition: all .4s;
+      text-shadow: #333333;
     }
     .show-nav nav {
       opacity: 1;
