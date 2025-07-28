@@ -147,13 +147,14 @@
   }
   
   .header li {
-    font-family: fantasy;
+    font-family: 'workbench', fantasy;
     display: inline-flex;
     align-items: center;
     padding: 0 .5rem;
     text-shadow: coral 1px 0 10px;
   }
   .header a {
+    font-family: 'workbench', fantasy;
     color:  var(--color-body);
   }
   .header a:hover {
