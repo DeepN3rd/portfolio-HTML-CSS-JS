@@ -240,10 +240,10 @@
       font-family: 'workbench';
       color:coral;
       display: block;
-      font-size: 2rem;
+      font-size: 4rem;
       padding: 2rem;
       transition: all .4s;
-      text-shadow: #000 1px 0 10px;
+      text-shadow: #000000 1px 0 10px;
     }
     .show-nav nav {
       opacity: 1;
