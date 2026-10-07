@@ -140,21 +140,22 @@
   
   .header .logo {
     font-family: 'workbench', sans-serif;
-    font-size: 2rem;
+    font-size: 2.8rem;
     letter-spacing: 2px;
     color: chartreuse;
     text-shadow: #000 1px 0 10px;
   }
   
   .header li {
-    font-family: 'workbench', fantasy;
+    font-family: 'Square Block', 'workbench', fantasy;
+    font-size: 1.8rem;
     display: inline-flex;
     align-items: center;
     padding: 0 .5rem;
-    text-shadow: coral 1px 0 10px;
+    text-shadow: rgb(74, 36, 180) 1px 0 10px;
   }
   .header a {
-    font-family: 'workbench', fantasy;
+    font-family: 'Square Block', 'workbench', fantasy;
     color:  var(--color-body);
   }
   .header a:hover {
