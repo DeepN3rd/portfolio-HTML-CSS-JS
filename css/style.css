@@ -131,7 +131,7 @@
   }
   
   .header {  
-    background: #5b6c78; 
+    background: #131318; 
     border-bottom: 1px solid #333333;
     position: sticky;
     top:0;
@@ -143,7 +143,7 @@
     font-size: 2.8rem;
     letter-spacing: 0px;
     color: #ff9987;
-    text-shadow: #000 0px 1px 13px;
+    text-shadow: #644896 0px 1px 15px;
   }
   
   .header li {
@@ -152,14 +152,14 @@
     display: inline-flex;
     align-items: center;
     padding: 0 .5rem;
-    text-shadow: rgb(74, 36, 180) 1px 0 10px;
+    text-shadow: #4a24b4 1px 0 10px;
   }
   .header a {
     font-family: 'Square Block', 'workbench', fantasy;
     color:  var(--color-body);
   }
   .header a:hover {
-    color: #81ff02;
+    color: #bbff77;
   }
   
   .header .right {
@@ -180,7 +180,7 @@
   }
   
   .socials .icon {
-    height: 18px;
+    height: 24px;
   }
   
   .burger {
@@ -230,7 +230,7 @@
       overflow: hidden;
       opacity: 0;
       height: calc(100vh - 55px);
-      background: #605b78;
+      background: #313138;
       transition: all .4s ease-out;
     }
     nav .menu li {
