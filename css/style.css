@@ -139,23 +139,23 @@
   }
   
   .header .logo {
-    font-family: 'Xirod', 'workbench', sans-serif;
+    font-family: 'Sixtyfour', 'workbench', sans-serif;
     font-size: 2.8rem;
     letter-spacing: 0px;
     color: #ff9987;
     text-shadow: #644896 0px 1px 15px;
-  }
+}
   
   .header li {
-    font-family: 'Square Block', 'workbench', fantasy;
-    font-size: 1.8rem;
+    font-family: 'workbench', sans-serif;
+    font-size: 1.6rem;
     display: inline-flex;
     align-items: center;
     padding: 0 .5rem;
     text-shadow: #4a24b4 1px 0 10px;
   }
   .header a {
-    font-family: 'Square Block', 'workbench', fantasy;
+    font-family: 'workbench', sans-serif;
     color:  var(--color-body);
   }
   .header a:hover {
@@ -238,13 +238,13 @@
       justify-content: center;
     }
     nav .menu li a {
-      font-family: 'workbench';
-      color:coral;
+      font-family: 'sixtyfour', 'workbench';
+      color: #ff9987;
       display: block;
-      font-size: 4rem;
+      font-size: 3.2rem;
       padding: 2rem;
       transition: all .4s;
-      text-shadow: #000000 1px 0 25px;
+      text-shadow: #4a24b4 1px 0 25px;
     }
     .show-nav nav {
       opacity: 1;
