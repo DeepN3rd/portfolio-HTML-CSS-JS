@@ -140,10 +140,10 @@
   
   .header .logo {
     font-family: 'Sixtyfour', 'workbench', sans-serif;
-    font-size: 2.8rem;
+    font-size: 2.4rem;
     letter-spacing: 0px;
     color: #ff9987;
-    text-shadow: #644896 0px 1px 15px;
+    text-shadow: #644896 4px 4px 10px;
 }
   
   .header li {
@@ -152,7 +152,7 @@
     display: inline-flex;
     align-items: center;
     padding: 0 .5rem;
-    text-shadow: #4a24b4 1px 0 10px;
+    text-shadow: #4a24b4 1px 1px 10px;
   }
   .header a {
     font-family: 'workbench', sans-serif;
@@ -230,8 +230,8 @@
       overflow: hidden;
       opacity: 0;
       height: calc(100vh - 55px);
-      background: #313138;
-      transition: all .4s ease-out;
+      background: #131318;
+      transition: all .3s ease-out;
     }
     nav .menu li {
       display: flex;
@@ -243,8 +243,8 @@
       display: block;
       font-size: 3.2rem;
       padding: 2rem;
-      transition: all .4s;
-      text-shadow: #4a24b4 1px 0 25px;
+      transition: all .3s;
+      text-shadow: #4a24b4 1px 1px 25px;
     }
     .show-nav nav {
       opacity: 1;
@@ -291,7 +291,7 @@
     font-size: 4rem;
     margin: 1.6rem 0 0 0;
     font-weight: 700;
-    text-shadow: #000 1px 0 10px;
+    text-shadow: #000 1px 1px 10px;
   }
   
   .hero__item {
